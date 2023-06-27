@@ -1,4 +1,4 @@
- Hi, my name is Yulia. I`m junior Frontend Developer.
+<h1 align="center"> Hi, my name is Yulia. I`m junior Frontend Developer.</h1>
  
 
 <!--
